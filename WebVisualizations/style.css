@@ -1,0 +1,48 @@
+.body {
+    background: #757575;
+}
+
+.navbar-brand {
+    background-color: teal;
+    color: #f8f9fa;
+}
+
+.main {
+    background-color: rgb(236, 235, 235);
+    float: left;
+}
+
+.sidebar {
+    background-color: rgb(236, 235, 235);
+}
+
+.visuals {
+    width: 200px;
+}
+
+.visualTitle {
+    text-align: center;
+    margin-top: 10%;
+    padding-bottom: 0%;
+    margin-bottom: 0%;
+}
+
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+     ... 
+}
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) { 
+    ... 
+}
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+    ... 
+}
+
+/* // Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { 
+    ... 
+}
